@@ -1,0 +1,52 @@
+# Archivos generados por Visual Studio
+.vs/
+.vscode/
+.idea/
+.DS_Store
+
+# Archivos de compilación
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+
+# Archivos de publicación
+publish/
+*.publishsettings
+*.pubxml
+*.pubxml.user
+
+# Paquetes
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Configuración de usuario
+*.user
+*.rsuser
+*.suo
+*.sln.docstates
+
+# Archivos de configuración y dependencias
+appsettings*.json
+secrets.json
+config/
+.env
+.env.*
+
+# Archivos de entidades de usuario (IDE)
+*.csproj.user
+*.csproj.vspscc
+*.csproj.vssscc
+
+# Archivos de sistema
+Thumbs.db
+desktop.ini
